@@ -142,6 +142,7 @@
     <ClCompile Include="Airplane_In_Data.cpp" />
     <ClCompile Include="Airplane_Out_Data.cpp" />
     <ClCompile Include="Clear_Container.cpp" />
+    <ClCompile Include="Compare.cpp" />
     <ClCompile Include="Get_Distance.cpp" />
     <ClCompile Include="Get_Speed.cpp" />
     <ClCompile Include="Init_Container.cpp" />
@@ -149,6 +150,7 @@
     <ClCompile Include="In_Transport.cpp" />
     <ClCompile Include="Lab.cpp" />
     <ClCompile Include="Out_Container.cpp" />
+    <ClCompile Include="Sort.cpp" />
     <ClCompile Include="Train_In_Data.cpp" />
     <ClCompile Include="Train_Out_Data.cpp" />
     <ClCompile Include="Transport_Travel_time.cpp" />

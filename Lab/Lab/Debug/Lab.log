@@ -1,6 +1,7 @@
 ﻿  Airplane_In_Data.cpp
   Airplane_Out_Data.cpp
   Clear_Container.cpp
+  Compare.cpp
   Get_Distance.cpp
   Get_Speed.cpp
   Init_Container.cpp
@@ -8,6 +9,7 @@
   In_Transport.cpp
   Lab.cpp
   Out_Container.cpp
+  Sort.cpp
   Train_In_Data.cpp
   Train_Out_Data.cpp
   Transport_Travel_time.cpp
