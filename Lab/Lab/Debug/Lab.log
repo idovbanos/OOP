@@ -8,6 +8,8 @@
   In_Transport.cpp
   Lab.cpp
   Out_Container.cpp
+  Ship_In_Data.cpp
+  Ship_Out_Data.cpp
   Train_In_Data.cpp
   Train_Out_Data.cpp
   Создание кода...
