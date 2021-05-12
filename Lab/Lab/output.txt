@@ -5,24 +5,29 @@ Container contains 5 elements.
 Its Load Capacity is 6019 kilograms
 Its Speed is 318 kilometers/hour
 And Distance is 4519 kilometers
+Its Cargo Weight is 5291 kilograms
 
 1: It's an Airplane with Flight range: 83910 kilometers
 Its Load Capacity is 3912 kilograms
 Its Speed is 517 kilometers/hour
 And Distance is 6180 kilometers
+Its Cargo Weight is 2791 kilograms
 
 2: It's a Train with Cars amount: 18
 Its Speed is 210 kilometers/hour
 And Distance is 1492 kilometers
+Its Cargo Weight is 1591 kilograms
 
 3: It's a Train with Cars amount: 27
 Its Speed is 187 kilometers/hour
 And Distance is 2019 kilometers
+Its Cargo Weight is 3118 kilograms
 
 4: It's an Airplane with Flight range: 18261 kilometers
 Its Load Capacity is 2801 kilograms
 Its Speed is 481 kilometers/hour
 And Distance is 2201 kilometers
+Its Cargo Weight is 2310 kilograms
 
 Empty container. 
 Container contains 0 elements.

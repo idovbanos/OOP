@@ -1,6 +1,7 @@
 ﻿  Airplane_In_Data.cpp
   Airplane_Out_Data.cpp
   Clear_Container.cpp
+  Get_Cargo_weight.cpp
   Get_Distance.cpp
   Get_Speed.cpp
   Init_Container.cpp
