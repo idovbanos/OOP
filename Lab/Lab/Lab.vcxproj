@@ -151,6 +151,7 @@
     <ClCompile Include="Out_Container.cpp" />
     <ClCompile Include="Train_In_Data.cpp" />
     <ClCompile Include="Train_Out_Data.cpp" />
+    <ClCompile Include="Transport_Travel_time.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Airplane.h" />

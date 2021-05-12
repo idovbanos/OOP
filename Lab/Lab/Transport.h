@@ -19,6 +19,7 @@ public:
     virtual void Out_Data(int Speed, int Distance, ofstream& ofst) = 0; //Чисто вирутальная функция вывода информации
                                               //о траспорте, она будет определена для
                                               //каждого класса конкретного траспорта
+    double Transport_Travel_time(int Speed, int Distance); //Функция подсчета времени транспорта в пути
 protected:
     Transport() {};
 };
