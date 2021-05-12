@@ -149,6 +149,9 @@
     <ClCompile Include="In_Transport.cpp" />
     <ClCompile Include="Lab.cpp" />
     <ClCompile Include="Out_Container.cpp" />
+    <ClCompile Include="Out_Only_Airplane.cpp" />
+    <ClCompile Include="Out_Only_Airplane_Container.cpp" />
+    <ClCompile Include="Out_Only_Airplane_Transport.cpp" />
     <ClCompile Include="Train_In_Data.cpp" />
     <ClCompile Include="Train_Out_Data.cpp" />
   </ItemGroup>
