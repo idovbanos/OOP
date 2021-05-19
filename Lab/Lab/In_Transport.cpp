@@ -24,6 +24,7 @@ Transport* Transport::In(ifstream& ifst) {
 
     ifst >> T->Speed; //¬водим скорость
     ifst >> T->Distance; //¬водим рассто€ние м/у пунктами
+    ifst >> T->Cargo_weight; //¬водим массу груза
 
     T->In_Data(ifst);
 
