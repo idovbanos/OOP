@@ -18,5 +18,5 @@ void Ship::Out_Data(int Speed, int Distance, ofstream& ofst) {
     ofst << endl;
 
     ofst << "Its Speed is " << Speed << " kilometers/hour" << endl;
-    ofst << "And Distance is " << Distance << " kilometers" << endl << endl;
+    ofst << "And Distance is " << Distance << " kilometers" << endl;
 }

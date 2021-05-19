@@ -1,17 +1,4 @@
-﻿  Airplane_In_Data.cpp
-  Airplane_Out_Data.cpp
-  Clear_Container.cpp
-  Compare.cpp
-  Get_Distance.cpp
-  Get_Speed.cpp
-  Init_Container.cpp
-  In_Container.cpp
-  In_Transport.cpp
-  Lab.cpp
-  Out_Container.cpp
-  Sort.cpp
-  Train_In_Data.cpp
-  Train_Out_Data.cpp
-  Transport_Travel_time.cpp
+﻿  Ship_In_Data.cpp
+  Ship_Out_Data.cpp
   Создание кода...
   Lab.vcxproj -> C:\Users\of913\OneDrive\Рабочий стол\4_4_3_3_Git\OOP\Lab\Debug\Lab.exe
