@@ -143,6 +143,7 @@
     <ClCompile Include="Airplane_Out_Data.cpp" />
     <ClCompile Include="Clear_Container.cpp" />
     <ClCompile Include="Compare.cpp" />
+    <ClCompile Include="Get_Cargo_weight.cpp" />
     <ClCompile Include="Get_Distance.cpp" />
     <ClCompile Include="Get_Speed.cpp" />
     <ClCompile Include="Init_Container.cpp" />

@@ -18,7 +18,7 @@ class Ship : public Transport {
 
 public:
     void In_Data(ifstream& ifst); //Функция ввода информации о корабле
-    void Out_Data(int Speed, int Distance, ofstream& ofst); //Функция вывода информации о корабле
+    void Out_Data(int Speed, int Distance, double Cargo_weight, ofstream& ofst); //Функция вывода информации о корабле
     Ship() {};
 };
 
