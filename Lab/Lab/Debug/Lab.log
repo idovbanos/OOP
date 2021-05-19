@@ -10,11 +10,16 @@
   In_Transport.cpp
   Lab.cpp
   Out_Container.cpp
+  Out_Only_Airplane.cpp
+  Out_Only_Airplane_Container.cpp
+  Out_Only_Airplane_Transport.cpp
   Ship_In_Data.cpp
   Ship_Out_Data.cpp
   Sort.cpp
   Train_In_Data.cpp
   Train_Out_Data.cpp
+  Создание кода...
+  Компиляция...
   Transport_Travel_time.cpp
   Создание кода...
   Lab.vcxproj -> C:\Users\of913\OneDrive\Рабочий стол\4_4_3_3_Git\OOP\Lab\Debug\Lab.exe

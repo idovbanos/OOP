@@ -23,6 +23,7 @@ public:
                                               //каждого класса конкретного траспорта
     double Transport_Travel_time(int Speed, int Distance); //Функция подсчета времени транспорта в пути
     bool Compare(Transport& Other); //Функция сравнения времен прохождения пути 
+    virtual void Out_Only_Airplane(int Speed, int Distance, double Cargo_weight, ofstream& ofst); //Функция вывода только самолетов
 protected:
     Transport() {};
 };

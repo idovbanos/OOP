@@ -12,6 +12,7 @@ public:
     void Out(ofstream& ofst); //Функция вывода элемента из контейнера
     void Clear(); //Функция очищения контейнера
     void Sort(); //Функция сортировки контейнера
+    void Out_Only_Airplane(ofstream& ofst); //Функция вывода только самолетов
     Container(); //Конструктор
     ~Container() { Clear(); } //Деструктор
 };

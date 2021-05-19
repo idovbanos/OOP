@@ -6,12 +6,14 @@ Its Load Capacity is 2801 kilograms
 Its Speed is 481 kilometers/hour
 And Distance is 2201 kilometers
 Its Cargo Weight is 2310 kilograms
+
 Travel time of transport = 4.57588
 
 1: It's a Train with Cars amount: 18
 Its Speed is 210 kilometers/hour
 And Distance is 1492 kilometers
 Its Cargo Weight is 1591 kilograms
+
 Travel time of transport = 7.10476
 
 2: It's a Ship with Displacement: 213 thousands of tons
@@ -19,12 +21,14 @@ Its Type is Liner
 Its Speed is 208 kilometers/hour
 And Distance is 1703 kilometers
 Its Cargo Weight is 3182 kilograms
+
 Travel time of transport = 8.1875
 
 3: It's a Train with Cars amount: 27
 Its Speed is 187 kilometers/hour
 And Distance is 2019 kilometers
 Its Cargo Weight is 3118 kilograms
+
 Travel time of transport = 10.7968
 
 4: It's an Airplane with Flight range: 83910 kilometers
@@ -32,6 +36,7 @@ Its Load Capacity is 3912 kilograms
 Its Speed is 517 kilometers/hour
 And Distance is 6180 kilometers
 Its Cargo Weight is 2791 kilograms
+
 Travel time of transport = 11.9536
 
 5: It's an Airplane with Flight range: 27891 kilometers
@@ -39,6 +44,7 @@ Its Load Capacity is 6019 kilograms
 Its Speed is 318 kilometers/hour
 And Distance is 4519 kilometers
 Its Cargo Weight is 5291 kilograms
+
 Travel time of transport = 14.2107
 
 6: It's a Ship with Displacement: 178 thousands of tons
@@ -46,27 +52,33 @@ Its Type is Towboat
 Its Speed is 156 kilometers/hour
 And Distance is 2847 kilometers
 Its Cargo Weight is 2192 kilograms
+
 Travel time of transport = 18.25
 
 
 Only Airplanes.
-0: It's an Airplane with Flight range: 27891 kilometers
-Its Load Capacity is 6019 kilograms
-Its Speed is 318 kilometers/hour
-And Distance is 4519 kilometers
-
-1: It's an Airplane with Flight range: 83910 kilometers
-Its Load Capacity is 3912 kilograms
-Its Speed is 517 kilometers/hour
-And Distance is 6180 kilometers
-
-2: 
-3: 
-4: It's an Airplane with Flight range: 18261 kilometers
+0: It's an Airplane with Flight range: 18261 kilometers
 Its Load Capacity is 2801 kilograms
 Its Speed is 481 kilometers/hour
 And Distance is 2201 kilometers
+Its Cargo Weight is 2310 kilograms
 
+1: 
+2: 
+3: 
+4: It's an Airplane with Flight range: 83910 kilometers
+Its Load Capacity is 3912 kilograms
+Its Speed is 517 kilometers/hour
+And Distance is 6180 kilometers
+Its Cargo Weight is 2791 kilograms
+
+5: It's an Airplane with Flight range: 27891 kilometers
+Its Load Capacity is 6019 kilograms
+Its Speed is 318 kilometers/hour
+And Distance is 4519 kilometers
+Its Cargo Weight is 5291 kilograms
+
+6: 
 Empty container. 
 Container contains 0 elements.
 
