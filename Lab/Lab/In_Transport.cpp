@@ -1,6 +1,7 @@
 #include "Transport.h"
 #include "Airplane.h"
 #include "Train.h"
+#include "Ship.h"
 
 Transport* Transport::In(ifstream& ifst) {
     Transport* T;
@@ -13,6 +14,9 @@ Transport* Transport::In(ifstream& ifst) {
     }
     else if (K == 2) {
         T = new Train;
+    }
+    else if (K == 3) {
+        T = new Ship;
     }
     else {
         return 0;
